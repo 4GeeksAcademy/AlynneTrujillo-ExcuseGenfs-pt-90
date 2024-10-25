@@ -5,15 +5,15 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-let who = ["The cat", "My grandma", "The mailman", "My bird"];
+let who = ["The cat", "My grandpa", "The mailman", "My bird"];
 let action = ["ate", "peed", "crushed", "broke"];
-let what = ["my homework", "my phone", "the car"];
+let what = ["my homework", "my cell phone", "the car"];
 let when = [
-  "before the class",
+  "before the school",
   "when I was sleeping",
   "while I was exercising",
   "during my lunch",
-  "while I was praying"
+  "while I was praying",
 ];
 
 function getRandomNumber(min, max) {
